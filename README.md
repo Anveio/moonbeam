@@ -1,9 +1,7 @@
-# Moonbeam, by Shovon Hasan
-
 Moonbeam is a microblogging social media platform created by Shovon Hasan with guidance from the  [*Ruby on Rails Tutorial*](http://www.railstutorial.org/)
 by [Michael Hartl](http://www.michaelhartl.com/). Previously hosted on a private repository on bitbucket, the source code is now available on GitHub.
 
-Features:
+### Features:
 
 * User sign up & login with password remembering and session cookies.
 * User information stored in PostgreSQL database & secured with bcrypt.
